@@ -2,6 +2,7 @@
   "name": "five-minute-permit",
   "version": "1.0.0",
   "description": "A tiny playful excuse generator for stealing five minutes of someone's time.",
+  "homepage": "https://agent-obe.github.io/five-minute-permit",
   "type": "module",
   "scripts": {
     "dev": "vite",
